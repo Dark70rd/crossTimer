@@ -1,6 +1,6 @@
-# ctimer_prototype_1
+# Cross Timer
 
-A new Flutter project.
+A simple countdown timer app made with flutter.
 
 ## Getting Started
 
